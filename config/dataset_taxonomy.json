@@ -1,0 +1,36 @@
+{
+  "language_codes": [
+    "FR",
+    "EN",
+    "AR",
+    "TN_AR",
+    "TN_LAT"
+  ],
+  "categories": {
+    "Vols": [
+      "Recherche de vols",
+      "Prix",
+      "Horaires"
+    ],
+    "Hébergement": [
+      "Recherche d'hôtels",
+      "Prix",
+      "Disponibilité"
+    ],
+    "Météo": [
+      "Météo actuelle",
+      "Prévisions",
+      "Climat saisonnier"
+    ],
+    "Change": [
+      "Taux de change",
+      "Conversion de devises",
+      "Monnaie locale"
+    ],
+    "Destinations": [
+      "Informations touristiques",
+      "Activités",
+      "Conseils de voyage"
+    ]
+  }
+}

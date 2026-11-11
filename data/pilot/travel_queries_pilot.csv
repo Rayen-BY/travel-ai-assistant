@@ -1,0 +1,76 @@
+id,texte,langue,categorie,sous_categorie
+TQA-001,Je cherche un vol direct de Tunis à Paris pour le 12 juin.,FR,Vols,Recherche de vols
+TQA-002,I need a nonstop flight from London to Djerba next Friday.,EN,Vols,Recherche de vols
+TQA-003,أبحث عن رحلة جوية من القاهرة إلى إسطنبول في بداية سبتمبر.,AR,Vols,Recherche de vols
+TQA-004,نحب نلقى طيارة ديراكت من تونس لباريس نهار 12 جوان.,TN_AR,Vols,Recherche de vols
+TQA-005,"N7eb nal9a vol men Monastir l Roma nhar 20 septembre, ken fama direct.",TN_LAT,Vols,Recherche de vols
+TQA-006,Combien coûte un billet aller-retour entre Lyon et Tunis au mois d’août ?,FR,Vols,Prix
+TQA-007,How much is a one-way ticket from Rome to Marrakech this weekend?,EN,Vols,Prix
+TQA-008,كم يبلغ سعر تذكرة ذهاب وإياب من دبي إلى عمّان؟,AR,Vols,Prix
+TQA-009,بقداش تجي تذكرة رايح جاي من تونس لميلانو في أوت؟,TN_AR,Vols,Prix
+TQA-010,9adech ta3mel ticket aller-retour men Sfax l Istanbul?,TN_LAT,Vols,Prix
+TQA-011,À quelle heure part le premier vol Tunis-Marseille lundi ?,FR,Vols,Horaires
+TQA-012,What time does the evening flight from Madrid to Lisbon land?,EN,Vols,Horaires
+TQA-013,ما موعد آخر رحلة من الدوحة إلى بيروت يوم الخميس؟,AR,Vols,Horaires
+TQA-014,وقتاش توصل آخر طيارة من صفاقس لليون نهار الجمعة؟,TN_AR,Vols,Horaires
+TQA-015,Wa9tech tousel ekher tayara men Doha l Beyrouth nhar el khmis?,TN_LAT,Vols,Horaires
+TQA-016,Trouve-moi un hôtel calme près de la médina de Marrakech.,FR,Hébergement,Recherche d'hôtels
+TQA-017,Can you find a family-friendly hotel near the beach in Barcelona?,EN,Hébergement,Recherche d'hôtels
+TQA-018,أريد فندقاً مناسباً للعائلات بالقرب من المسجد النبوي.,AR,Hébergement,Recherche d'hôtels
+TQA-019,نلوّج على أوتيل صغير وهادي قريب للبحر في المهدية.,TN_AR,Hébergement,Recherche d'hôtels
+TQA-020,Lawwejli 3la hotel behi lel 3ayla 9rib lel b7ar fi Hammamet.,TN_LAT,Hébergement,Recherche d'hôtels
+TQA-021,Combien coûte une chambre double à Rome pour trois nuits ?,FR,Hébergement,Prix
+TQA-022,What is the nightly rate for a sea-view room in Santorini?,EN,Hébergement,Prix
+TQA-023,ما سعر جناح لشخصين في فندق وسط إسطنبول؟,AR,Hébergement,Prix
+TQA-024,بقدّاش الليلة في شومبرة دوبل في أوتيل في سوسة؟,TN_AR,Hébergement,Prix
+TQA-025,9adech yji soum zouz lyeli fi hotel 4 etoiles fi Monastir?,TN_LAT,Hébergement,Prix
+TQA-026,Y a-t-il une chambre libre à Tozeur du 3 au 6 novembre ?,FR,Hébergement,Disponibilité
+TQA-027,Is there any accommodation available in Kyoto during cherry blossom season?,EN,Hébergement,Disponibilité
+TQA-028,هل توجد غرف متاحة في العقبة خلال عطلة العيد؟,AR,Hébergement,Disponibilité
+TQA-029,فما شومبرة فارغة في نفطة من 20 حتى 22 ديسمبر؟,TN_AR,Hébergement,Disponibilité
+TQA-030,Famma chambre disponible fi Tabarka men 15 lel 18 juillet?,TN_LAT,Hébergement,Disponibilité
+TQA-031,Quel temps fait-il actuellement à Djerba ?,FR,Météo,Météo actuelle
+TQA-032,Is it raining in Amsterdam right now?,EN,Météo,Météo actuelle
+TQA-033,ما حالة الطقس الآن في الدار البيضاء؟,AR,Météo,Météo actuelle
+TQA-034,شنوة الجو توّا في بنزرت؟ الدنيا شمس وإلا مغيّمة؟,TN_AR,Météo,Météo actuelle
+TQA-035,Chnowa el jaw tawa fi Ain Draham? Famma chta?,TN_LAT,Météo,Météo actuelle
+TQA-036,Quelles sont les prévisions météo à Prague pour les cinq prochains jours ?,FR,Météo,Prévisions
+TQA-037,Will it be sunny in Cape Town this weekend?,EN,Météo,Prévisions
+TQA-038,ما توقعات الطقس في لندن للأسبوع القادم؟,AR,Météo,Prévisions
+TQA-039,باش تصب الشتا في طبرقة الويكاند الجاي؟,TN_AR,Météo,Prévisions
+TQA-040,Kifech bech ykoun el jaw fi Sousse ej-jom3a jeya?,TN_LAT,Météo,Prévisions
+TQA-041,Quel climat trouve-t-on à Bali au mois de janvier ?,FR,Météo,Climat saisonnier
+TQA-042,What is the weather usually like in Norway in December?,EN,Météo,Climat saisonnier
+TQA-043,كيف يكون المناخ عادةً في زنجبار خلال شهر يوليو؟,AR,Météo,Climat saisonnier
+TQA-044,كيفاش يكون الجو عادة في أنطاليا في شهر أفريل؟,TN_AR,Météo,Climat saisonnier
+TQA-045,Kifech ykoun el jaw fi Cappadoce fi novembre bel 3ada?,TN_LAT,Météo,Climat saisonnier
+TQA-046,Quel est le taux de change actuel entre l'euro et le dinar tunisien ?,FR,Change,Taux de change
+TQA-047,What is today's exchange rate from US dollars to Japanese yen?,EN,Change,Taux de change
+TQA-048,ما سعر صرف الجنيه الإسترليني مقابل الدرهم المغربي اليوم؟,AR,Change,Taux de change
+TQA-049,قداش يعمل الجنيه الإسترليني بالدينار التونسي اليوم؟,TN_AR,Change,Taux de change
+TQA-050,9adech ya3mel ed-dollar b dinar tounsi lyoum?,TN_LAT,Change,Taux de change
+TQA-051,À combien correspondent 250 euros en couronnes tchèques ?,FR,Change,Conversion de devises
+TQA-052,Convert 800 Canadian dollars into euros for me.,EN,Change,Conversion de devises
+TQA-053,حوّل 1500 ريال سعودي إلى دينار أردني.,AR,Change,Conversion de devises
+TQA-054,حوّللي 500 دينار تونسي للأورو.,TN_AR,Change,Conversion de devises
+TQA-055,500 dinars tounsi 9adech ya3mlou bel euro?,TN_LAT,Change,Conversion de devises
+TQA-056,Quelle monnaie utilise-t-on en Croatie ?,FR,Change,Monnaie locale
+TQA-057,What is the official currency used in Vietnam?,EN,Change,Monnaie locale
+TQA-058,ما العملة المحلية المستخدمة في البرازيل؟,AR,Change,Monnaie locale
+TQA-059,شنية العملة اللي يستعملوها في تايلندا؟,TN_AR,Change,Monnaie locale
+TQA-060,Chneya el flous elli yesta3mlouhom fi Coree du Sud?,TN_LAT,Change,Monnaie locale
+TQA-061,Quels monuments faut-il absolument voir lors d'un séjour à Istanbul ?,FR,Destinations,Informations touristiques
+TQA-062,What are the main attractions in the old city of Dubrovnik?,EN,Destinations,Informations touristiques
+TQA-063,ما أهم المعالم السياحية التي تستحق الزيارة في تونس العاصمة؟,AR,Destinations,Informations touristiques
+TQA-064,شنوة أشهر المعالم اللي تتزار في القيروان؟,TN_AR,Destinations,Informations touristiques
+TQA-065,Chnowa aham blayes najm nzourhom fi Istanbul?,TN_LAT,Destinations,Informations touristiques
+TQA-066,Quelles activités peut-on faire avec des enfants à Djerba ?,FR,Destinations,Activités
+TQA-067,What outdoor activities are available around Interlaken in summer?,EN,Destinations,Activités
+TQA-068,ما الأنشطة البحرية المتاحة في شرم الشيخ؟,AR,Destinations,Activités
+TQA-069,شنوة نجم نعمل مع الصغار في سيدي بوسعيد؟,TN_AR,Destinations,Activités
+TQA-070,Chnowa najmou na3mlou activites fi Djerba m3a sghar?,TN_LAT,Destinations,Activités
+TQA-071,Quels conseils me donnes-tu pour voyager seul au Japon ?,FR,Destinations,Conseils de voyage
+TQA-072,What safety precautions should I take while driving in Iceland in winter?,EN,Destinations,Conseils de voyage
+TQA-073,ما النصائح المهمة لامرأة تسافر وحدها إلى إسبانيا؟,AR,Destinations,Conseils de voyage
+TQA-074,شنوة الحاجات اللي يلزمني نرد بالي منها كي نسافر لكوريا الجنوبية؟,TN_AR,Destinations,Conseils de voyage
+TQA-075,Chnowa lezemni na3ref 9bal ma nkari karhba fi Italia?,TN_LAT,Destinations,Conseils de voyage
